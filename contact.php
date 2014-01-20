@@ -1,31 +1,31 @@
 <?php include 'floatMenu.php'; ?>
 <a href="index.php">
-    <img src="assets/img/home.png" id="imgMenuBar">
+    <img src="dist/img/home.png" id="imgMenuBar">
     Home
 </a>
 </div>
 </li>
 <li><div>
         <a href="about.php">
-            <img src="assets/img/info.png" id="imgMenuBar">
+            <img src="dist/img/info.png" id="imgMenuBar">
             About
         </a>
     </div></li>
 <!-- <li><div>
         <a href="work.php">
-            <img src="assets/img/profile.png" id="imgMenuBar">
+            <img src="dist/img/profile.png" id="imgMenuBar">
             Work
         </a>
     </div></li>
 <li><div>
         <a href="blog.php">
-            <img src="assets/img/pen.png" id="imgMenuBar">
+            <img src="dist/img/pen.png" id="imgMenuBar">
             Blog
         </a>
     </div></li> -->
 <li><div>
         <a href="#">
-            <img src="assets/img/location.png" id="imgMenuBar">
+            <img src="dist/img/location.png" id="imgMenuBar">
             Contact
         </a>
     </div></li>

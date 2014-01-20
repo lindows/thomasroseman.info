@@ -8,58 +8,28 @@
 <meta name="keywords" content="Thomas, Roseman, Prometheu5, tom, programming, developer, web, internet, PRO5, freelance, SEO">
 <meta name="author" content="Thomas Roseman">
 
+<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
-<!--<script type="text/javascript">$(document).ready(function () {$("a").tooltip({ 'selector': '', 'placement': 'top' }) });</script>-->
-<link href="dist/css/bootstrap.css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="assets/css/normalize.css" />
-<link rel="stylesheet" type="text/css" href="assets/css/demo.css" />
-<link rel="stylesheet" type="text/css" href="assets/css/component.css" />
 <script src="js/modernizr.custom.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="dist/js/bootstrap.js"></script>
-
+<!--<script type="text/javascript">$(document).ready(function () {$("a").tooltip({ 'selector': '', 'placement': 'top' }) });</script>-->
+<!--<script src="dist/js/bootstrap.js"></script>->
 
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
-	<script src="dist/js/html5shiv.js"></script>
+<script src="dist/js/html5shiv.js"></script>
 <![endif]-->
 
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-43781413-1', 'thomasroseman.info');
-  ga('send', 'pageview');
+    ga('create', 'UA-43781413-1', 'thomasroseman.info');
+    ga('send', 'pageview');
 
 </script>
-
-
-<style type="text/css" media="screen">
-	.thing { 
-		font-family: AvantGardeLT-Medium, Helvetica, Arial, sans-serif;
-		background: #f1f1f1; width: 100px; 
-		height: 100px; 
-		-webkit-border-radius: 100px; 
-		-moz-border-radius: 100px; 
-		-o-border-radius: 100px; 
-		border-radius: 100px; display: inline-block; 
-		padding: 10px; 
-		margin: 10px; 
-		border: 4px solid #808080; 
-		text-decoration: none; 
-		color: #cbd8d2;
-	}
-	.thing:hover { border-color: #ddd; }
-	.thing:active { 
-		-webkit-box-shadow: inset 0 2px 5px #707070;
-		-moz-box-shadow: inset 0 2px 5px #000;
-		-o-box-shadow: inset 0 2px 5px #000;
-		box-shadow: inset 0 2px 5px #707070;
-		}
-</style>
-
 
 </head>
 	<body  onload="parent.alertsize(document.body.scrollHeight);">
