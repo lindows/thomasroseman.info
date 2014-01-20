@@ -8,9 +8,9 @@
 <meta name="keywords" content="Thomas, Roseman, Prometheu5, tom, programming, developer, web, internet, PRO5, freelance, SEO">
 <meta name="author" content="Thomas Roseman">
 
-<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+<link rel="stylesheet" type="text/css" href="dist/css/style.css" />
 
-<script src="js/modernizr.custom.js"></script>
+<script src="dist/js/modernizr.custom.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <!--<script type="text/javascript">$(document).ready(function () {$("a").tooltip({ 'selector': '', 'placement': 'top' }) });</script>-->
 <!--<script src="dist/js/bootstrap.js"></script>->
@@ -39,11 +39,11 @@
 					<nav class="gn-menu-wrapper">
 						<div class="gn-scroller">
 							<ul class="gn-menu">
-								<li class="gn-search-item">
+								<!-- <li class="gn-search-item">
                                     <img src="assets/img/search.png" id="imgMenuBar">
                                     <input placeholder="Search" type="search" class="gn-search">
-									<!--<a class="gn-icon gn-icon-search"><span>Search</span></a>-->
-								</li>
+									<!--<a class="gn-icon gn-icon-search"><span>Search</span></a>
+								</li> -->
 								<li>
 									<div>
 										<a>

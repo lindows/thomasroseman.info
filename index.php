@@ -43,8 +43,8 @@
 				<span></span>
 			</ul>
 
-		<script src="js/classie.js"></script>
-		<script src="js/gnmenu.js"></script>
+		<script src="dist/js/classie.js"></script>
+		<script src="dist/js/gnmenu.js"></script>
 		<script>
 			new gnMenu( document.getElementById( 'fly_Menu' ) );
 		</script>
